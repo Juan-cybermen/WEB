@@ -1,0 +1,118 @@
+/* 
+Project Name: Monthly Resolutions
+Client: One Month
+Author: Christopher Castig | @castig
+*/
+
+
+/*----------------------------------------------------------------------------- 
+01=BASE   
+-----------------------------------------------------------------------------*/
+
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+.clear {
+	clear: both;
+}
+
+.circule {
+	border-radius: 50%;
+}
+
+
+
+/*----------------------------------------------------------------------------- 
+02=LAYOUT  
+-----------------------------------------------------------------------------*/
+#container {
+	width: 1220px;
+	padding-left: 200px;
+	font-family: Lato;
+   
+   
+}
+.header {
+	color: black;
+}
+
+#main {
+	background: white;
+	width: 600px;
+	float: left;
+	padding-top: 20px;
+	
+}
+
+#sidebar {
+	width: 370px;
+	float: right;
+	background: white;
+	float: right;
+	padding-bottom: 135px;
+	margin-right: 39px;
+}
+
+h1 {
+	margin: 0;
+	padding-left: 10px;
+}
+h2 {
+	font-size: 15px;
+	margin-top: 0;
+	padding-left: 10px;
+
+}
+background
+h3 {
+	font-size: 25px;
+	padding-left: 20px;
+	padding-top: 0px;
+
+}
+
+h4 {
+	font-size: 18px;
+	padding-left: 20px;
+	padding-top: 34px;
+}
+
+body {
+	background: url('../images/notebook.png');
+}
+
+p {
+	padding-left: 20px;
+
+}
+
+img {
+	padding-left: 20px;
+	margin-top: 0px;
+}
+
+a {
+	color: red;
+	text-decoration: none;
+}
+
+ul {
+	padding-left: 60px;
+}
+
+
+
+
+
+
+
+/*----------------------------------------------------------------------------- 
+03=MAIN  
+-----------------------------------------------------------------------------*/
+
+   
+
